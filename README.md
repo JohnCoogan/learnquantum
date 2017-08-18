@@ -54,8 +54,8 @@ This repository is for educational resources related to Quantum Computing. I hop
 * [Quantum Theory - the Church-Turing Principle and the Universal Quantum Computer](papers/Quantum%20Theory%20-%20the%20Church-Turing%20Principle%20and%20the%20Universal%20Quantum%20Computer%20-%20deutsch1985.pdf)
 * [Quantum-inspired Genetic Algorithms](papers/Quantum-inspired%20genetic%20algorithms.pdf)
 * [Strengths and Weaknesses of Quantum Computing](papers/STRENGTHS%20AND%20WEAKNESSES%20OF%20QUANTUM%20COMPUTING%20-%20bennett1997.pdf)
-* [The Limits of Quantum Computers](papers/The%20Limits%20of%20Quantum%20Computers%20-%20Scott Aaronson.pdf)
-* [What is the Computational Value of Finite Range Tunneling?](papers/What%20is%20the%20Computational%20Value%20of%20Finite%20Range%20Tunneling?%20-%20Google Researchers.pdf)
+* [The Limits of Quantum Computers](papers/The%20Limits%20of%20Quantum%20Computers%20-%20Scott%20Aaronson.pdf)
+* [What is the Computational Value of Finite Range Tunneling?](papers/What%20is%20the%20Computational%20Value%20of%20Finite%20Range%20Tunneling?%20-%20Google%20Researchers.pdf)
 * [Why now is the right time to study quantum computing](papers/Why%20now%20is%20the%20right%20time%20to%20study%20quantum%20computing%20-%20Harrow%202015.pdf)
 
 ---
