@@ -48,9 +48,9 @@ This repository is for educational resources related to Quantum Computing. I hop
 
 ## Academic Papers:
 
-* [A Potentially Realizable Quantum Computer](papers/A Potentially Realizable Quantum Computer - lloyd1993.pdf)
-* [A silicon-based nuclear spin quantum compute](papers/A silicon-based nuclear spin quantum compute - kane1998.pdf)
-* [Quantum algorithms - An Overview](papers/Quantum algorithms - An Overview - Ashley Montanaro.pdf)
+* [A Potentially Realizable Quantum Computer](papers/A%20Potentially%20Realizable%20Quantum%20Computer%20-%20lloyd1993.pdf)
+* [A silicon-based nuclear spin quantum compute](papers/A%20silicon-based%20nuclear%20spin%20quantum%20compute%20-%20kane1998.pdf)
+* [Quantum algorithms - An Overview](papers/Quantum%20algorithms%20-%20An%20Overview%20-%20Ashley Montanaro.pdf)
 * [Quantum Theory - the Church-Turing Principle and the Universal Quantum Computer](papers/Quantum Theory - the Church-Turing Principle and the Universal Quantum Computer - deutsch1985.pdf)
 * [Quantum-inspired Genetic Algorithms](papers/Quantum-inspired genetic algorithms.pdf)
 * [Strengths and Weaknesses of Quantum Computing](papers/STRENGTHS AND WEAKNESSES OF QUANTUM COMPUTING - bennett1997.pdf)
