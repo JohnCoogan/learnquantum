@@ -73,3 +73,10 @@ This repository is for educational resources related to Quantum Computing. I hop
 * [Quantum Computing Playground](www.quantumplayground.net)
 * [John Preskill’s Quantum Computation Lecture Notes](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
 * [Quantum Mechanics and Quantum Computation Course at BerkeleyX](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)
+
+---
+
+## Online Quantum Computers & Simulators:
+* [IBM Experience (Computer)](https://quantumexperience.ng.bluemix.net/qx/experience)
+* [Quirk (Simulator)](http://algassert.com/quirk)
+* [Quantum Computing Playground (Simulator)](http://www.quantumplayground.net/#/home)
