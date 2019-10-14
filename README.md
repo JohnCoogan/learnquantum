@@ -65,6 +65,8 @@ This repository is for educational resources related to Quantum Computing. I hop
 * [Quantum Computing since Democritus - Scott Aaronson](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565/)
 * [Quantum Computation and Quantum Information - Michael Nielson, Issac Chuang](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/)
 * [Quantum Computer Science: An Introduction - N. David Mermin](https://www.amazon.com/Quantum-Computer-Science-David-Mermin/dp/0521876583/)
+* [Quantum Computing Explained - David McMahon](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993)
+* [Quantum Computing: A Gentle Introduction - Eleanor Rieffel, Wolfgang Polak](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
 
 ---
 
