@@ -26,6 +26,7 @@ This repository is for educational resources related to Quantum Computing. I hop
 
 ## Popular Articles / Media Coverage:
 
+* [Mnemonic Blog on Quantum Computing and Quantum Mechanics by Andy Matuschak and Michael Nielsen](https://quantum.country/)
 * [Scott Aaronson’s talk on Quantum Computing at the White House.](http://www.scottaaronson.com/blog/?p=2943)
 * [Quantum computing for the determined by Michael Nielsen](http://michaelnielsen.org/blog/quantum-computing-for-the-determined/)
 * [The CIA and Jeff Bezos Bet on Quantum Computing — MIT Technology Review](https://www.technologyreview.com/s/429429/the-cia-and-jeff-bezos-bet-on-quantum-computing/)
