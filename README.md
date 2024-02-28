@@ -84,3 +84,4 @@ This repository is for educational resources related to Quantum Computing. I hop
 * [IBM Experience (Computer)](https://quantumexperience.ng.bluemix.net/qx/experience)
 * [Quirk (Simulator)](http://algassert.com/quirk)
 * [Quantum Computing Playground (Simulator)](http://www.quantumplayground.net/)
+* [Quriust (Simulator)](https://github.com/ScipioneParmigiano/quriust)
